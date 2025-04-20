@@ -53,7 +53,8 @@ function banner(){
     sleep 0.05
     echo -e "  | |_) | | (_| | (__|   <   |  _  | (_| \__ \ |_ "
     sleep 0.05
-    echo -e "  |____/|_|\__,_|\___|_|\_\  |_| |_|\__,_|___/\__|  ${endColour}${yellowColour}(${_
+    echo -e "  |____/|_|\__,_|\___|_|\_\  |_| |_|\__,_|___/\__|  ${endColour}${yellowColour}(╯°□°）╯${endColour}"
+
 
 }
 
